@@ -5,5 +5,6 @@ description = "Python task scheduler Djagno REST API."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "django>=5.1.4",
     "ruff>=0.8.4",
 ]
